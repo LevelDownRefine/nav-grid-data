@@ -38,7 +38,11 @@ localization/
 与 ok-end-field 的 `CalibratedMapStore` 直接兼容：将“视觉地图资源目录”设为
 `assets/nav-grid-data/localization/maps`。分层目录从该路径的同级 `layers/` 读取。
 包内为 3 张基础图及标定、69 张分层图（map01=22、map02=47）。
-原文件逐字节复制，保留透明度、尺寸、标定控制点和仿射矩阵，不做降采样。
+发行图使用原分辨率 8 位灰度 PNG（压缩级别 9），保持定位器实际使用的灰度像素
+逐点不变；基础图采用 OpenCV `IMREAD_GRAYSCALE` 输出，分层采用 BGR/BGRA
+转灰度并把 alpha==0 的像素置零，与现有消费者一致。不保留彩色和透明外观；
+彩色原素材仍保留在来源编辑器仓库。尺寸、标定控制点、仿射矩阵不变，不做降采样。
+72 张图及元数据从 128,155,340 字节降至 50,140,814 字节（减少 60.87%）。
 manifest 是完整性与溯源清单；现有消费者通过 maps/layers 目录加载，并不依赖 manifest。
 
 基础图 `matrix` 将 `[u,v,1]` 变换为世界 `[X,Z]`，`inverse_matrix` 反向变换。

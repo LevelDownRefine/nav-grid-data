@@ -58,7 +58,7 @@
     "base_images": "assets/tiles/maps/<map>/4/<map>_4.png",
     "base_mappings": "assets/tiles/maps/<map>/4/<map>_4_mapping.json",
     "layers": "assets/tiles/layers/catalog.json and paths within it",
-    "processing": "Copied byte-for-byte. No resampling or coordinate changes."
+    "processing": "Original dimensions retained. Base images saved from OpenCV IMREAD_GRAYSCALE; layers converted with BGR/BGRA2GRAY and alpha==0 set to zero. 8-bit grayscale PNG, compression level 9. No resampling or coordinate changes; exact runtime grayscale pixels preserved."
   },
   "files": [
     {
@@ -68,353 +68,353 @@
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_1.png",
-      "size": 191351,
-      "sha256": "334f3690adfcc06a76dd17b9bf7be172fd5e311c5c876c6c4555f46b7e653adf"
+      "size": 157848,
+      "sha256": "99c9de93e334f8f70fbcf32690f5388bb44454e6a7c0fc56ee00e6e8115f0124"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_2.png",
-      "size": 48700,
-      "sha256": "fab954e0fce4b9504e1fd3dcc99858fde5c7fa2a19d1e2b646c0459fc40ae86d"
+      "size": 38282,
+      "sha256": "0c9616af5422df5fa9c04d55f501929113b9b968c7baedb855b817149c849984"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_4.png",
-      "size": 94024,
-      "sha256": "adeb908798721cdf40c7aa5d82d13be6fa2c80561e52645531120984810f1a5e"
+      "size": 77512,
+      "sha256": "4b6b449fbb518c51c4943968e8ad33112ce3110f0570a719eac8e02593ac7809"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_5.png",
-      "size": 73560,
-      "sha256": "a9edd6e01885e505f9b2ac7a510f8b6b0b02ba17d7075890455928e182c99f56"
+      "size": 61926,
+      "sha256": "8d91ffcf05491ff8dccbfe75c83cf450c414ef8024074148dcf6035a7bce8ea7"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_6.png",
-      "size": 47228,
-      "sha256": "0cb99a848720303c5b5cc2f7c24ec35366127e7c08dbc789206568ff368b0f1a"
+      "size": 38617,
+      "sha256": "8786c90c2bb001e946afd4827baee1e9e582078e9d19dac0cc77500193ec73a1"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_7.png",
-      "size": 91336,
-      "sha256": "7f648daf8c6485b089a8e2d3fd552664b72a10fcc9f2819dcd41a5e6a970a82b"
+      "size": 72196,
+      "sha256": "46d55b9fe144427c89ddf8610aa8551ab6adbb8175e7bfa55a757afe5eeacef8"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_8.png",
-      "size": 52531,
-      "sha256": "7f3b032974e7249defb288e96efa741fe52cd1b66758f3f672611a8426aab190"
+      "size": 42480,
+      "sha256": "33182a63630e2681d77d88c16f00db3e489dca6d072839caff5883e92716c5f9"
     },
     {
       "path": "layers/map01/map01_lv002/scene_map01_lv002_sub01_location_tips_2.png",
-      "size": 92691,
-      "sha256": "5418b694863b6832769d53ff81581489d931c4901085f411007b420f05dbdc34"
+      "size": 83673,
+      "sha256": "5060adaf4a9150857e5558311f1e406a5cb9cacb6c51b9df9604c0c58d5841a0"
     },
     {
       "path": "layers/map01/map01_lv003/scene_map01_lv003_layer_tips_1.png",
-      "size": 58460,
-      "sha256": "5607cd5f92a7abb14e772ae5e7582f21d8e918ca96377e62a7a6cc568e0c7741"
+      "size": 51836,
+      "sha256": "fd6ecca0ffa05e91b5ef197758f7ebd55317eae19d4c5f4b1c1ec9a10aa51f91"
     },
     {
       "path": "layers/map01/map01_lv003/scene_map01_lv003_layer_tips_2.png",
-      "size": 67637,
-      "sha256": "9966281fbd5b79a8f824a24db775a22bfe44625f34dbc1805eafc20ee93f34f4"
+      "size": 61765,
+      "sha256": "ce135fd615150d116bbd04f528b99bc33713fb8e3ae0ec6576a193946d42601d"
     },
     {
       "path": "layers/map01/map01_lv003/scene_map01_lv003_layer_tips_3.png",
-      "size": 19073,
-      "sha256": "ad3e97ac0d208b678acbf43760244ace46b6af49713e3869ee2f0192ea2d9e74"
+      "size": 15506,
+      "sha256": "47309f6e68e28ec24d68c8c9d10e2387200dc4153eacc63f6226fac55c226560"
     },
     {
       "path": "layers/map01/map01_lv003/scene_map01_lv003_layer_tips_4.png",
-      "size": 67971,
-      "sha256": "bfe4d02518dd4f14afa4f9524b9ac2b417e4cb5f9daece96199814991c14dd3d"
+      "size": 57060,
+      "sha256": "7ede87a09d8bd7a7d9f53808cf9f41a81bfa45b98a4d5d60aa51498bc6b90d48"
     },
     {
       "path": "layers/map01/map01_lv005/scene_map01_lv005_layer_tips_1.png",
-      "size": 96760,
-      "sha256": "5dd233301db485e1f4941886fbfcf7b18100d25e4e9414a1b771ac9a0cdfd1bb"
+      "size": 81394,
+      "sha256": "bbdb63cb9bc416ed36a28b6f35a32ddfebd261e6401bb378cb51740e836cc843"
     },
     {
       "path": "layers/map01/map01_lv005/scene_map01_lv005_layer_tips_2.png",
-      "size": 164899,
-      "sha256": "2f5fddfe33c2619e8c5d4a9378038c0db7086735b2a1998ec9ec2022eeca9ca6"
+      "size": 147999,
+      "sha256": "0741c53041e38a4f85f672ab4305f00d21d94ef7575d08dd7738932a97f9330d"
     },
     {
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_2.png",
-      "size": 135687,
-      "sha256": "a88af42b4ee8b23c3987c16da704f425e2fa52fe9e3962dd5b73641a32f2f716"
+      "size": 105972,
+      "sha256": "e5e166f8990e2766891fda2901b75d8bf2f7ea9450716be57f5c4eb88c736784"
     },
     {
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_3.png",
-      "size": 30562,
-      "sha256": "a2fd0b2def2505c4f666034b5dbe7420af06152bbeb84dbbae7b0fd1d76c81b4"
+      "size": 25807,
+      "sha256": "38a89e9a8a096e1a4c6e802fe90dd10de1b08868d66d4926e83441f1fe9f202e"
     },
     {
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_4.png",
-      "size": 218994,
-      "sha256": "45abc9deaff466241411fab372e3f3c4e969159856381f13ee2646ebe5b329ce"
+      "size": 172033,
+      "sha256": "0ddc8a2539259769d64333b19d718a06a46e826bebb9f8d947efdf596f3aa03d"
     },
     {
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_7.png",
-      "size": 43102,
-      "sha256": "69b93828b5dbb81a2da945a7c478f77429a246cdd03bdca075c563272fa3b56c"
+      "size": 38057,
+      "sha256": "724b337b7a5e36cd7f6a7ffe94e0b3109ed66db87608a380a246e38181633e39"
     },
     {
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_2.png",
-      "size": 60571,
-      "sha256": "55e1234f7a87297c064393bb2758883d9c21bc2b2a1721d712599ea9a0175a8c"
+      "size": 53383,
+      "sha256": "374d5ba29289e46acdca8a28b04fd6542b0f027b1d1768887ca12221aa5d2c26"
     },
     {
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_3.png",
-      "size": 83064,
-      "sha256": "cd79159418c7450ec320f23682a07f418dc22068d53f88ef4405722c47dcd09f"
+      "size": 69069,
+      "sha256": "af7ff51f54d209a4ff6f4371e697cf68888f8dee863bd628921adea5576ba726"
     },
     {
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_4.png",
-      "size": 132378,
-      "sha256": "61e94761a7db29917aba3475810973ab037d5e50f0c3a177b9ea82d2cd0cb80f"
+      "size": 110563,
+      "sha256": "350add942b00ade51236da7fe443ecf8498080a8da49ed21d747f8275c17b255"
     },
     {
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_5.png",
-      "size": 108435,
-      "sha256": "82c70ca3e35291420959b2df6f0bd7b955e5f6366b3e706c23119166c482dc6d"
+      "size": 97172,
+      "sha256": "5047e7bee14ee7332214f2a38985f5e5b8b183c87c6ab3fef04c7daac2e3d362"
     },
     {
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_1.png",
-      "size": 181430,
-      "sha256": "8597a782e809c35550299740fc0d68cad086e05fb6132a0af953c35a798bf652"
+      "size": 232760,
+      "sha256": "78ecfa76a7e380c259d5cb4ded39c3b390e85ab5576193bb131ed5928f9901b9"
     },
     {
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_2.png",
-      "size": 114848,
-      "sha256": "db3d14f3e458cac58ed52a7a63add3b26885ec8ea40e1ea1b3ca5252695567dc"
+      "size": 138516,
+      "sha256": "9cb336caafdd5d71fe7314bdbba3584179be8dc85c0f6bca3c133b62afaec8b8"
     },
     {
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_4.png",
-      "size": 369356,
-      "sha256": "cc5416941065771ac772a76c80adfdaf41d0c595f80cb26318732c6cb1ac79cc"
+      "size": 455162,
+      "sha256": "b004d1ec67ee6c82bf42e3e439d1d43c80e674ce028a715ddf04a28eb7cc88a9"
     },
     {
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_5.png",
-      "size": 69856,
-      "sha256": "73550e8d558f1109567eeebff6a3186f9e434440d86e6dea378aafd6a09945b2"
+      "size": 80589,
+      "sha256": "399280198094d793b98dfcd7b0936cd6e768cf67034c686e0d30a48370dee082"
     },
     {
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_1.png",
-      "size": 50010,
-      "sha256": "30792d45f9e9e2c17c1304e6ba5ef87a448439b6b2a99b3b8db403bf2b300e23"
+      "size": 50922,
+      "sha256": "59013a746cb57152a4b8e90919571e3537e5ec310e9ab75f49c92bf2ac747c96"
     },
     {
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_2.png",
-      "size": 29885,
-      "sha256": "2cb36e3e4066a4eb9c06005280f1575b3510277c62d5227ecc53756c37d09015"
+      "size": 36279,
+      "sha256": "7bf3f81a9907750c0bb6efc70a55b836247a1aeaf47d57cd3a03a1d77ac1c31c"
     },
     {
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_3.png",
-      "size": 87589,
-      "sha256": "f71a497ad6e929d1266262e8f9052fa37ea80920bb772a1471352d731672d3d6"
+      "size": 96482,
+      "sha256": "4712829df6504e82cd19b591c09a7b274f48c996741d4d474d3d9d0385c7a0cc"
     },
     {
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_4.png",
-      "size": 386813,
-      "sha256": "d2af55369319d0dc2f08cfd2529de31cd1ccf74b5e262e774b8e238ab42dd52f"
+      "size": 331047,
+      "sha256": "092407c468113de073986889dab31b281567f329c14571048f54935332f6786e"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_1.png",
-      "size": 32793,
-      "sha256": "63842741c14290b99483a4cf146cc0401628643a41be1e37e30377f7555feff6"
+      "size": 54155,
+      "sha256": "f855bfe1809bfe4ce2235f07d7d3f47bdfd8c640dbc79e6abfe1d7f141928345"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_2.png",
-      "size": 79111,
-      "sha256": "42f1b16a9213f39ca86773a7c2aade72f7614054853c558a1a6bbbf0b79ac4ee"
+      "size": 87116,
+      "sha256": "cc384af6940c0dee0b8ba32ce103cf48e0de469c46f82b121fa3150053f4d15d"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_3.png",
-      "size": 29905,
-      "sha256": "8ea3d445ae31d3db349ad4e7dbaa76890511ee2a6e0d1f415e76e1705ff2198b"
+      "size": 49860,
+      "sha256": "48101600952a4e45d523ac0d32cc431d35bc230e4b1203f645edf8a7d32c60d5"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_4.png",
-      "size": 72665,
-      "sha256": "84785b43a0b2498d2b7f1dd2380b26d22dc257ca75b5587e0bde6376d6e04003"
+      "size": 83956,
+      "sha256": "2a2a8034f1b328ae7f1fff58558412598232690ebd2529c42c3e4dca1f851efc"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_5.png",
-      "size": 36781,
-      "sha256": "dad7cf33eaca7a58ff16754881b7e5cd1217faa62fa1228e781199db6d5b3e99"
+      "size": 62715,
+      "sha256": "f51fff8d88ce91285d0519d686a435abdd8872adb73928633fbc25fb21d3514f"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_6.png",
-      "size": 64930,
-      "sha256": "9bc5e1a7f1afac515c59ccd75ab573bbbb04b09ad37e988e4ba3527501134f7a"
+      "size": 74528,
+      "sha256": "24f5ec6a5a253e27c703333efa8cb56f67d24b4257472f097f4f2597105557db"
     },
     {
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_7.png",
-      "size": 84701,
-      "sha256": "98c82174abc2e6bf54437558e61a07ec89d333ad35ba7d879c5cc693fdda2f04"
+      "size": 99777,
+      "sha256": "862b4a1e735e5afe42043eb932ba196a483d7cba3b61be1b06ecafcbf9f5707b"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_1.png",
-      "size": 161843,
-      "sha256": "b0b38b2e142e0a5769b8a204c5d06f86a3b8a400023dd1e87af17421939ba495"
+      "size": 167671,
+      "sha256": "906c0c13c00b5493ec7507628507ff60d2f290d091aeac9b77aa30ecd4854cbc"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_2.png",
-      "size": 81371,
-      "sha256": "ca506853f53877d92998cf0209a5197b12be94468361af67d3475b63683209fd"
+      "size": 90825,
+      "sha256": "2a6a281147f9efe355360e1e9865658893f41155df295c7a9198a6926d0d9560"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_3.png",
-      "size": 55126,
-      "sha256": "a474e4ad52b6e36803fe78fcbf3f72061f59914c8e35673d6cd222f04dbab110"
+      "size": 63190,
+      "sha256": "cf68a4cfb798563f3ce75c199fc9c04a3ad691a4470424ef271ef7f8f2d2f2ce"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_4.png",
-      "size": 124988,
-      "sha256": "27eac4e3a3a3f17f940affa0bd11f449ecf18a6e0699c4cce06249bf2eaf5446"
+      "size": 135135,
+      "sha256": "39e9925c9a2995debe36f287ab6b291e72fa4ab7fdbc417c06f88c2a372aefbe"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_5.png",
-      "size": 23980,
-      "sha256": "30e7c65670d671340ae7c2dccec152a2110404478f399d598f742739a569aa1c"
+      "size": 40067,
+      "sha256": "6fc13d655e32c11bbadf4fdb07c691b36bd3bf4c6dd90ff43d8d645be8efa1f9"
     },
     {
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_6.png",
-      "size": 19963,
-      "sha256": "02d1af81d842478ce055f23d3108fc2a3446f022f7f1ff07c09b0e08ed4bf215"
+      "size": 33477,
+      "sha256": "7dac38e37d65d6a4f0205b6225ec0f647a9f1b920925ae488518a9aa7244b762"
     },
     {
       "path": "layers/map02/map02_lv004/scene_map02_lv004_layer_tips_1.png",
-      "size": 274005,
-      "sha256": "f4093985e3101c6a380e22be8916475eec37c032a1b22f7dde2dfe85a3794780"
+      "size": 267719,
+      "sha256": "85aedcaa7629c238cb09bfb742afcf04eef70558c27404155a301911b7a90df7"
     },
     {
       "path": "layers/map02/map02_lv004/scene_map02_lv004_layer_tips_2.png",
-      "size": 151354,
-      "sha256": "1ef2645389c02cd959a59f0098aea6bcf5482cd049a1d81e1b636aecda23d3ab"
+      "size": 166494,
+      "sha256": "c13685fefa7eb20c256151d48c3ac7c60e9b77bd3976b72375bdf1a30eb350ab"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_1.png",
-      "size": 19745,
-      "sha256": "3e7073a44f62c0baf9409d6ff1fd113ab2f84d7197dee9005851e4984e67d00e"
+      "size": 34663,
+      "sha256": "478c3eae214dc9da6049fd59438e37badc2b5d39da0a3e89c552f374b3f26fe1"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_10.png",
-      "size": 15996,
-      "sha256": "1d25d798d9d1d3eb13186ae918eafd6af261544eb29712f5ca93b910a4fb1b7c"
+      "size": 25633,
+      "sha256": "0c6ef0317e48fad9addec6838f4fdea947dadcc2200d19d710484fce573fc3e3"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_11.png",
-      "size": 33375,
-      "sha256": "167e88ccd51c24256d3dc6c4b317b66564c60a7aff0a8b3c8c66cb3a27922718"
+      "size": 36319,
+      "sha256": "581e1fdef9b6c31f91074626891b6353feaabe3883b781883b5fb5ac2c4e7cac"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_2.png",
-      "size": 38221,
-      "sha256": "0da0d65ccd3a967bdc755e8cda558b2434ca91cf18eec68c66f3eca5e1d997d2"
+      "size": 40383,
+      "sha256": "a7f479f9c142b3d68b26eb0d5b2a65a96494d5c3806f6d33112aa018b0711fab"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_4.png",
-      "size": 50867,
-      "sha256": "f3b9b0fe41f349325e375bbbaa02a794486695d4875f8746162b107de8f44a51"
+      "size": 54314,
+      "sha256": "382529a0fced9d0ad31ce0fe683e1d9477950cf68d56330c8287c29dc6ff22aa"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_5.png",
-      "size": 42910,
-      "sha256": "8dd03a92798ab7e4f5f813e89d0dccb66e6bb99be68d8b13caa2d376ec1096a3"
+      "size": 44927,
+      "sha256": "2bd6a1cad2214e1a45c1314ef8cc1201699588dc8f5dd0802d9db44e2db96318"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_6.png",
-      "size": 79725,
-      "sha256": "538d1883948f795a0938d5b3a4ba2950a5983cd3b11470eee921f89cb3a72efd"
+      "size": 79708,
+      "sha256": "414f5fc546ffe51b20d4b5b1695d18035b9ca7fedf6d199d36799229caa18fbd"
     },
     {
       "path": "layers/map02/map02_lv005/scene_map02_lv005_layer_tips_7.png",
-      "size": 143317,
-      "sha256": "dcc2c0dff65a1489b7f5300e0913b223e1a0e16bbe187fd68eadb8fdb5992b3a"
+      "size": 132755,
+      "sha256": "d5e06183dbdd5027a8055ee1d85cd5e6da1633d5ebddff9ee1c5f9cf0c681981"
     },
     {
       "path": "layers/map02/map02_lv007/scene_map02_lv007_layer_tips_1.png",
-      "size": 52365,
-      "sha256": "1048743e61c1e5d473473a8ab6d0ddf8bf7c3c31ef5fc6bb7c0632d386388856"
+      "size": 61525,
+      "sha256": "fa671f1ed7a1310cdaf43efe6290282ce9fbf39161a6c59ee5fecc4ceb2a48f4"
     },
     {
       "path": "layers/map02/map02_lv007/scene_map02_lv007_layer_tips_2.png",
-      "size": 18061,
-      "sha256": "ca73c99213bae42f5ce38cb69b57785757e92998af43a1340ebae00d2d75c567"
+      "size": 30627,
+      "sha256": "57f226ba0545c701c509784311fc594fa57f15ced4d8c6775206a43cf518748c"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_layer_tips_1.png",
-      "size": 547194,
-      "sha256": "5888f7361a414b9f9de8bf30690800688b240e9d1ff9329afa14cf410ef10872"
+      "size": 489341,
+      "sha256": "1a65810fda76f00993cc62c5decab4e6fb7da4ec6aa9263d05d30324e0a13720"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_layer_tips_2.png",
-      "size": 23672,
-      "sha256": "e2b21e1f18dee81e98c4f4020997ac47be40e7d967f153443fb8cb6ce6935881"
+      "size": 39045,
+      "sha256": "f5b40236a97a226f1102927c8edc92ad34d90352524a36e8be89df1dae264feb"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_1.png",
-      "size": 62946,
-      "sha256": "7205545242bf254b963a7108bd2a04e93a6b61aa7fb48218e873c9ecf7c8c210"
+      "size": 73832,
+      "sha256": "764da08b53df956aa5b1bc3f273f1ac75760385f8764845f8d61d0d5994687d3"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_12.png",
-      "size": 246889,
-      "sha256": "1040ab91dafceb598403e56f53a92181f0e509c185a98b36c38ddca46afe794f"
+      "size": 259456,
+      "sha256": "b53a840810ebfd6d4d684eaeaf242c26f5bfc827e5ae1fd3fdaff83f665dcd3d"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_13.png",
-      "size": 264446,
-      "sha256": "f7071ef110ef81909dd1933d70b50e34952eacf4c7f9816a2f3d0e5d24609de1"
+      "size": 312986,
+      "sha256": "7c2b0a8b0eae52070f376b751f4945da0475c2eb259ea438108de99f1eabbd03"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_2.png",
-      "size": 173693,
-      "sha256": "fc9f9fe1aba195cb14d83c5d9f73b5a48e0ea466f725a875adb75d7e6dc018fc"
+      "size": 220753,
+      "sha256": "ac30789937fdb5115df4bb9ccdb1ba0845cb2d403d9b4d5445555fb33c630a55"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_5.png",
-      "size": 200423,
-      "sha256": "e48653329544d7ce0f19de8cd2743308c4ab26447156a127fd7c30df081aa300"
+      "size": 220010,
+      "sha256": "b6b98159a10280d481a8a5312c10bb1ff5689e1f4fbc0a83b99a288e4b642792"
     },
     {
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_6.png",
-      "size": 613426,
-      "sha256": "30bdcf6368ee06ae5996389fdf36b23b5942562d447b65f03e97a790d6d88869"
+      "size": 548789,
+      "sha256": "671680626423ecc1de3f8da68e97a9f548e10af52ab75bc9f9b9424c5176930c"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_2.png",
-      "size": 359565,
-      "sha256": "4a231ba80e6a46b817547edd432b33458d1f8025f68d816bc580fe2ab693720e"
+      "size": 324215,
+      "sha256": "9401500977358fcf13275a8a941636946a2e4ba99f8b3b89d318c5ab854e9af1"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_5.png",
-      "size": 151424,
-      "sha256": "e65bd103ed8db5715d2a6ab2b4ce87e9683cc38a93c5bf3f1d1c4260bca51328"
+      "size": 158120,
+      "sha256": "c22c1d43a497097db074bbdffa7e5fef8f3dbf0e663f227c02a6209ac99e6b81"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_6.png",
-      "size": 82303,
-      "sha256": "7177088c1bc21e7b5e5e2e22ada9270e53ca4901a323b0ee44e841cd58393952"
+      "size": 98900,
+      "sha256": "1294e4c8e7f9a8f046fea5f0720e913722edcbcf360b5be9d164d98268c6f5a7"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_7.png",
-      "size": 12349,
-      "sha256": "9adcb981b70dcf3aa392346215fa2ea8a11640abae92c02aaed3f92698e468e1"
+      "size": 20224,
+      "sha256": "7c6d0d8a1d40b0d28c9f142dc8b3da2b2dc005591adb21a6a215993c407d87ae"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_8.png",
-      "size": 245136,
-      "sha256": "43e83f826d3e9cd87f01032dcc146f8fd8154beb26d7ef0e8f7f4443d02a639d"
+      "size": 264417,
+      "sha256": "de23205592d265b86af8f788adb40fecbd2a4cfe635278c167d7884f3f373102"
     },
     {
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_9.png",
-      "size": 121920,
-      "sha256": "15008dae55d131db33ca987bb417c84938eb2b0fd6e3444460c13bc24a47cb12"
+      "size": 128407,
+      "sha256": "608af4a1f69a7636906dd2ff71524c130b41eb52492da9b638f2d9c029e0b61e"
     },
     {
       "path": "maps/base01/4/base01_4.png",
-      "size": 400548,
-      "sha256": "af3ffa1647bce6ac7c6f97c1a4e1cfd702434d106898125f96277bd1a3854502"
+      "size": 156328,
+      "sha256": "1bcdbcec434971e075f21f8c2ecb952bdd83a1d74f0329f56f72a9fbda50b947"
     },
     {
       "path": "maps/base01/4/base01_4_mapping.json",
@@ -423,8 +423,8 @@
     },
     {
       "path": "maps/map01/4/map01_4.png",
-      "size": 34672072,
-      "sha256": "951ac4171d56617f01a803dd227fc9294db024ea658e690dfc36dc8ec118b3a4"
+      "size": 11819603,
+      "sha256": "0a1d7e12c9712b916e01c25a275c8b3d573b282897a9df0be632d01aeaf05ceb"
     },
     {
       "path": "maps/map01/4/map01_4_mapping.json",
@@ -433,13 +433,20 @@
     },
     {
       "path": "maps/map02/4/map02_4.png",
-      "size": 84823757,
-      "sha256": "66a46c5c5eac9e84e13b94facd4edb4caa05d8b401194b9fba4fb7c60c4ded1c"
+      "size": 29810264,
+      "sha256": "40d85c5aa4f477d466226b5f07795e383028113805bebc919777a70c62d1065d"
     },
     {
       "path": "maps/map02/4/map02_4_mapping.json",
       "size": 2003,
       "sha256": "55b5835bde260a292ae38b7d40dc49511814f9e646edd364a8738f2fc7007f4b"
     }
-  ]
+  ],
+  "image_encoding": {
+    "format": "png",
+    "color_mode": "grayscale8",
+    "compression_level": 9,
+    "runtime_grayscale_lossless": true,
+    "source_bundle_commit": "691ea31c3228b791368e84f555b6865f051a5478"
+  }
 }

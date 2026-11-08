@@ -1,3 +1,559 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:910678807b2b94e7151f1ac951247f9fb0a8cc12cee8050db8f3b9ddaa7dac74
-size 15967
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-12T11:50:31+00:00",
+  "note": "level_id → 层 的**声明**索引（含还没有网格文件的层）。由编辑器从官方分层目录物化，保存网格时自动刷新。某层是否真有网格要另外看网格文件 —— 这份文件只说明官方声明了哪些层。",
+  "layers": [
+    {
+      "id": "scene_map01_lv001_layer_tips_1",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "裂地者营哨",
+      "group": "裂地者营哨",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "集成工业研究所二楼",
+      "group": "集成工业研究所",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_4",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "集成工业研究所顶楼",
+      "group": "集成工业研究所",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_5",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "底部联通区",
+      "group": "底部联通区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_6",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "实验室通道",
+      "group": "枢纽区 · 4",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_7",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "地下实验室",
+      "group": "枢纽区 · 4",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv001_layer_tips_8",
+      "map_name": "map01",
+      "level_id": "map01_lv001",
+      "name": "基地区二层",
+      "group": "基地区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv002_sub01_location_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv002",
+      "name": "临时避难所",
+      "group": "临时避难所",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv003_layer_tips_1",
+      "map_name": "map01",
+      "level_id": "map01_lv003",
+      "name": "深层管理区地下一层",
+      "group": "深层管理区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv003_layer_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv003",
+      "name": "深层管理区地下二层",
+      "group": "深层管理区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv003_layer_tips_3",
+      "map_name": "map01",
+      "level_id": "map01_lv003",
+      "name": "档案库",
+      "group": "阿伯莉采石场 · 8",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv003_layer_tips_4",
+      "map_name": "map01",
+      "level_id": "map01_lv003",
+      "name": "装卸区下方",
+      "group": "阿伯莉采石场 · 8",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv005_layer_tips_1",
+      "map_name": "map01",
+      "level_id": "map01_lv005",
+      "name": "研究所二楼",
+      "group": "研究所二楼",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv005_layer_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv005",
+      "name": "地下区域",
+      "group": "地下区域",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv006_layer_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv006",
+      "name": "矿区营地二层",
+      "group": "矿区营地",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv006_layer_tips_3",
+      "map_name": "map01",
+      "level_id": "map01_lv006",
+      "name": "矿区营地三层瞭望台",
+      "group": "矿区营地",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv006_layer_tips_4",
+      "map_name": "map01",
+      "level_id": "map01_lv006",
+      "name": "矿脉通道",
+      "group": "矿脉通道",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv006_layer_tips_7",
+      "map_name": "map01",
+      "level_id": "map01_lv006",
+      "name": "气候监测站二楼",
+      "group": "气候监测站二楼",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv007_layer_tips_2",
+      "map_name": "map01",
+      "level_id": "map01_lv007",
+      "name": "源石发电站上层",
+      "group": "源石发电站",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv007_layer_tips_3",
+      "map_name": "map01",
+      "level_id": "map01_lv007",
+      "name": "桥头区营地高台",
+      "group": "桥头区营地高台",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv007_layer_tips_4",
+      "map_name": "map01",
+      "level_id": "map01_lv007",
+      "name": "破碎边界-坍缩山道",
+      "group": "破碎边界-坍缩山道",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map01_lv007_layer_tips_5",
+      "map_name": "map01",
+      "level_id": "map01_lv007",
+      "name": "第三废弃岩洞",
+      "group": "第三废弃岩洞",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_indie_dg007_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "indie_dg007",
+      "name": "首墩下层",
+      "group": "首墩内部",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg007_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "indie_dg007",
+      "name": "首墩中层主区",
+      "group": "首墩内部",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg007_layer_tips_4",
+      "map_name": "map02",
+      "level_id": "indie_dg007",
+      "name": "首墩顶层",
+      "group": "首墩内部",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg007_layer_tips_5",
+      "map_name": "map02",
+      "level_id": "indie_dg007",
+      "name": "首墩中层副区",
+      "group": "首墩内部",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg016_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "indie_dg016",
+      "name": "天师桩研究所下层",
+      "group": "遂明",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg016_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "indie_dg016",
+      "name": "天师桩档案馆下层",
+      "group": "遂明",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg016_layer_tips_3",
+      "map_name": "map02",
+      "level_id": "indie_dg016",
+      "name": "天师桩档案馆上层",
+      "group": "遂明",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_indie_dg016_layer_tips_4",
+      "map_name": "map02",
+      "level_id": "indie_dg016",
+      "name": "侵蚀监控区深处",
+      "group": "遂明",
+      "map_category": "independent"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "储备站地下室",
+      "group": "储备站",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "储备站一层",
+      "group": "储备站",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_3",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "储备站二层",
+      "group": "储备站",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_4",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "天井院地下一层",
+      "group": "天井院",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_5",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "天井院地下二层",
+      "group": "天井院",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_6",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "天井院地下三层",
+      "group": "天井院",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv002_layer_tips_7",
+      "map_name": "map02",
+      "level_id": "map02_lv002",
+      "name": "天井院底部",
+      "group": "天井院",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "祖泉泉源",
+      "group": "祖泉泉源",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "回水洞",
+      "group": "回水洞",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_3",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "石头窝",
+      "group": "石头窝",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_4",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "崖下洞",
+      "group": "崖下洞",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_5",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "主寨水车下层",
+      "group": "主寨水车",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv003_layer_tips_6",
+      "map_name": "map02",
+      "level_id": "map02_lv003",
+      "name": "主寨水车上层",
+      "group": "主寨水车",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv004_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv004",
+      "name": "栖云窟",
+      "group": "栖云窟",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv004_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv004",
+      "name": "望楼蓄水站",
+      "group": "望楼蓄水站",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "数据监测室",
+      "group": "数据监测室",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_10",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "一号水池检修区",
+      "group": "一号水池检修区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_11",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "二号水池检修区",
+      "group": "二号水池检修区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "生态标本室",
+      "group": "生态标本室",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_4",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "材料储备室",
+      "group": "试验园区 · 33",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_5",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "原型研发室",
+      "group": "试验园区 · 33",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_6",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "测试区深处",
+      "group": "测试区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv005_layer_tips_7",
+      "map_name": "map02",
+      "level_id": "map02_lv005",
+      "name": "测试区",
+      "group": "测试区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv007_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv007",
+      "name": "禁室监牢",
+      "group": "禁室监牢",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv007_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv007",
+      "name": "靠山窟",
+      "group": "靠山窟",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_layer_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "研发中心顶层",
+      "group": "研发中心",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "研发中心地下走道",
+      "group": "研发中心",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_1",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "前哨基地",
+      "group": "前哨基地",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_12",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "水利枢纽",
+      "group": "水利枢纽",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_13",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "幽台试验场",
+      "group": "幽台试验场",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "谈剑堂",
+      "group": "谈剑堂",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_5",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "城建区",
+      "group": "城建区",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv008_regiontoast_tips_6",
+      "map_name": "map02",
+      "level_id": "map02_lv008",
+      "name": "平波堤",
+      "group": "平波堤",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_2",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "林地",
+      "group": "林地",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_5",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "幽暗山洞",
+      "group": "幽暗山洞",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_6",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "小岩穴",
+      "group": "小岩穴",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_7",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "木屋内部",
+      "group": "木屋",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_8",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "旧落脚点下层",
+      "group": "旧落脚点",
+      "map_category": "layered"
+    },
+    {
+      "id": "scene_map02_lv009_layer_tips_9",
+      "map_name": "map02",
+      "level_id": "map02_lv009",
+      "name": "旧落脚点上层",
+      "group": "旧落脚点",
+      "map_category": "layered"
+    }
+  ]
+}

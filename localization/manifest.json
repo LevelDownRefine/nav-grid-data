@@ -63,8 +63,8 @@
   "files": [
     {
       "path": "layers/catalog.json",
-      "size": 91504,
-      "sha256": "9fce82a8b3e62eebd6961e5b60a8283734a076f586f569bdbce055e602c07cf0"
+      "size": 88341,
+      "sha256": "918f2fb532831cb31e20350f7668f5213e3e857e5304b46d633e01dfc20bdf8f"
     },
     {
       "path": "layers/map01/map01_lv001/scene_map01_lv001_layer_tips_1.png",
@@ -418,8 +418,8 @@
     },
     {
       "path": "maps/base01/4/base01_4_mapping.json",
-      "size": 1522,
-      "sha256": "acbebd2d8b2260671e545badc9607a0a77efef316d2b695b2efc8b2f59a1791d"
+      "size": 1436,
+      "sha256": "017f1a77f0601a8a2f5b13d7818f615b33a935e45e36cc1818140e5f2f4fbe82"
     },
     {
       "path": "maps/map01/4/map01_4.png",
@@ -428,8 +428,8 @@
     },
     {
       "path": "maps/map01/4/map01_4_mapping.json",
-      "size": 1649,
-      "sha256": "c4198c8087484a0d4983013e9ca0738c67bee6d27d3e1b59f58a600a9dc2eea9"
+      "size": 1555,
+      "sha256": "d24bf5e44259be94b5140a83636ef95a31dbfb85e4006f638c7d70b9f37982fb"
     },
     {
       "path": "maps/map02/4/map02_4.png",
@@ -438,8 +438,8 @@
     },
     {
       "path": "maps/map02/4/map02_4_mapping.json",
-      "size": 2003,
-      "sha256": "55b5835bde260a292ae38b7d40dc49511814f9e646edd364a8738f2fc7007f4b"
+      "size": 1891,
+      "sha256": "414d8bc7171c35326ec40dded8e0be78738516f19dc426882a8ced1eb1db13ca"
     }
   ],
   "image_encoding": {

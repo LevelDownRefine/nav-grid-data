@@ -1,3 +1,222 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c2a48e5bd2f4a05786456b74a5caaccecdbc281b8c3a25f3605f2dfc8831a959
-size 5259
+{
+  "schema_version": 2,
+  "links": [
+    {
+      "id": "a647c5cfede840a8bfaf2a9c1d8aebc4",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "rect": {
+          "x0": -300.0,
+          "z0": -407.0,
+          "x1": -299.0,
+          "z1": -405.0
+        },
+        "zoom": ""
+      },
+      "to": {
+        "map": "map02",
+        "tier": "",
+        "rect": {
+          "x0": -301.0,
+          "z0": -407.0,
+          "x1": -300.0,
+          "z1": -405.0
+        },
+        "zoom": ""
+      },
+      "bidirectional": true,
+      "kind": "door",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-09T13:57:05+00:00",
+      "created_at": "2026-10-09T13:57:05+00:00"
+    },
+    {
+      "id": "67d9f4aec60b4cbf96e2f9909167ff37",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "rect": {
+          "x0": -330.0,
+          "z0": -494.0,
+          "x1": -316.0,
+          "z1": -493.0
+        },
+        "zoom": ""
+      },
+      "to": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_6",
+        "rect": {
+          "x0": -330.0,
+          "z0": -493.0,
+          "x1": -316.0,
+          "z1": -492.0
+        },
+        "zoom": ""
+      },
+      "bidirectional": true,
+      "kind": "stairs",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-09T14:06:18+00:00",
+      "created_at": "2026-10-09T14:06:18+00:00"
+    },
+    {
+      "id": "3c0eba3550ba49f48b0c669acc9e6a06",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "zoom": "",
+        "rect": {
+          "x0": -373.0,
+          "z0": -480.0,
+          "x1": -371.0,
+          "z1": -477.0
+        }
+      },
+      "to": {
+        "map": "map02",
+        "tier": "",
+        "zoom": "",
+        "rect": {
+          "x0": -375.0,
+          "z0": -480.0,
+          "x1": -373.0,
+          "z1": -477.0
+        }
+      },
+      "bidirectional": true,
+      "kind": "stairs",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-12T06:26:11+00:00",
+      "created_at": "2026-10-09T14:09:25+00:00"
+    },
+    {
+      "id": "d156244272c0497bbf78ed1c8c11f619",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "zoom": "",
+        "rect": {
+          "x0": -257.0,
+          "z0": -471.0,
+          "x1": -256.0,
+          "z1": -468.0
+        }
+      },
+      "to": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_6",
+        "zoom": "",
+        "rect": {
+          "x0": -259.0,
+          "z0": -471.0,
+          "x1": -257.0,
+          "z1": -468.0
+        }
+      },
+      "bidirectional": false,
+      "kind": "rope",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-12T06:26:20+00:00",
+      "created_at": "2026-10-09T14:49:45+00:00"
+    },
+    {
+      "id": "09b9f086691442c58038abda21943900",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "rect": {
+          "x0": -240.0,
+          "z0": -450.0,
+          "x1": -237.0,
+          "z1": -448.0
+        },
+        "zoom": ""
+      },
+      "to": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_6",
+        "rect": {
+          "x0": -240.0,
+          "z0": -452.0,
+          "x1": -237.0,
+          "z1": -450.0
+        },
+        "zoom": ""
+      },
+      "bidirectional": true,
+      "kind": "stairs",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-11T11:22:03+00:00",
+      "created_at": "2026-10-11T11:22:03+00:00"
+    },
+    {
+      "id": "239d66ff82fe41278fa033aac4c4910d",
+      "from": {
+        "map": "map02",
+        "tier": "",
+        "rect": {
+          "x0": -261.0,
+          "z0": -480.0,
+          "x1": -259.0,
+          "z1": -478.0
+        },
+        "zoom": ""
+      },
+      "to": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "rect": {
+          "x0": -264.0,
+          "z0": -480.0,
+          "x1": -261.0,
+          "z1": -478.0
+        },
+        "zoom": ""
+      },
+      "bidirectional": true,
+      "kind": "stairs",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-11T11:25:25+00:00",
+      "created_at": "2026-10-11T11:25:25+00:00"
+    },
+    {
+      "id": "da7f690b04fb48cbb94fd151951a3bbb",
+      "from": {
+        "map": "map02",
+        "tier": "scene_map02_lv005_layer_tips_7",
+        "rect": {
+          "x0": -420.0,
+          "z0": -408.0,
+          "x1": -418.0,
+          "z1": -406.0
+        },
+        "zoom": ""
+      },
+      "to": {
+        "map": "map02",
+        "tier": "",
+        "rect": {
+          "x0": -423.0,
+          "z0": -408.0,
+          "x1": -420.0,
+          "z1": -406.0
+        },
+        "zoom": ""
+      },
+      "bidirectional": true,
+      "kind": "stairs",
+      "cost": 1.0,
+      "label": "",
+      "updated_at": "2026-10-11T11:34:10+00:00",
+      "created_at": "2026-10-11T11:34:10+00:00"
+    }
+  ]
+}

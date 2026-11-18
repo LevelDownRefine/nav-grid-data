@@ -1,0 +1,2389 @@
+{
+  "schema_version": 1,
+  "input_width": 1280,
+  "maps": {
+    "map01": [
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_1",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_1.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          86,
+          268,
+          135,
+          364
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_1.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "a65d0d29c6776507f24e514d0920d9568d5fedaf73d586d33f725b76501465bd",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1479,
+        "atlas_region": {
+          "x": 128,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_2.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          462,
+          302,
+          486,
+          323
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_2.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "a3754516333db5e2145d3c409df024861720f770d44ac01acb1e4b0b69d973e5",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 159,
+        "atlas_region": {
+          "x": 1007,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_4",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_4.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          450,
+          281,
+          504,
+          343
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_4.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "0f58ef24e6d740d11e00252b05f42a6ff4c9a6dd44899a01bfb2fc7005fc0098",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 725,
+        "atlas_region": {
+          "x": 1886,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_5",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_5.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          172,
+          274,
+          217,
+          307
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_5.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "ab63f82d0f54887407667b90e6f0ea7d90dea66b55411e5b323078bf6a478468",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 382,
+        "atlas_region": {
+          "x": 2765,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_6",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_6.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          394,
+          234,
+          410,
+          258
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_6.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "425549d36cfd14ebd2707834a1a0d290e291c7e7185041789953875416d163e5",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 126,
+        "atlas_region": {
+          "x": 3644,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_7",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_7.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          398,
+          229,
+          421,
+          272
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_7.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "9f1b26364279831a43f1e3c8141cba6433f2fe3cf0f8a694be4832ac157c125a",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 521,
+        "atlas_region": {
+          "x": 4523,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv001_layer_tips_8",
+        "map_id": "map01",
+        "level_id": "map01_lv001",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 384.0,
+          "south": -768.0,
+          "north": 256.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv001_layer_tips_8.webp",
+        "rank_shape": [
+          512,
+          640
+        ],
+        "rank_roi": [
+          433,
+          299,
+          448,
+          326
+        ],
+        "mask_path": "masks/map01/scene_map01_lv001_layer_tips_8.bin",
+        "mask_shape": [
+          510,
+          623
+        ],
+        "mask_bytes": 39717,
+        "mask_sha256": "98939d26022f2e00eda833e4cc3e9bfc8442c8b6a91ed7f81f7fdd69b8470abc",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 185,
+        "atlas_region": {
+          "x": 5402,
+          "y": 128,
+          "width": 623,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv002_sub01_location_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1024.0,
+          "east": -384.0,
+          "south": -256.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv002_sub01_location_tips_2.webp",
+        "rank_shape": [
+          320,
+          320
+        ],
+        "rank_roi": [
+          98,
+          90,
+          189,
+          138
+        ],
+        "mask_path": "masks/map01/scene_map01_lv002_sub01_location_tips_2.bin",
+        "mask_shape": [
+          341,
+          341
+        ],
+        "mask_bytes": 14536,
+        "mask_sha256": "25ed28ed775a8c9b1b4f408e129b354118663f0b189cac8b96d30c193a0b96ab",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 884,
+        "atlas_region": {
+          "x": 6281,
+          "y": 128,
+          "width": 341,
+          "height": 341
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv003_layer_tips_1",
+        "map_id": "map01",
+        "level_id": "map01_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 640.0,
+          "south": -1024.0,
+          "north": -384.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv003_layer_tips_1.webp",
+        "rank_shape": [
+          320,
+          320
+        ],
+        "rank_roi": [
+          184,
+          105,
+          231,
+          146
+        ],
+        "mask_path": "masks/map01/scene_map01_lv003_layer_tips_1.bin",
+        "mask_shape": [
+          341,
+          341
+        ],
+        "mask_bytes": 14536,
+        "mask_sha256": "42b5dd4445d55dcb28f6c810b9c97c9247e190ab9ef2309d484a0ee551624711",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 476,
+        "atlas_region": {
+          "x": 6878,
+          "y": 128,
+          "width": 341,
+          "height": 341
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv003_layer_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 640.0,
+          "south": -1024.0,
+          "north": -384.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv003_layer_tips_2.webp",
+        "rank_shape": [
+          320,
+          320
+        ],
+        "rank_roi": [
+          164,
+          109,
+          211,
+          145
+        ],
+        "mask_path": "masks/map01/scene_map01_lv003_layer_tips_2.bin",
+        "mask_shape": [
+          341,
+          341
+        ],
+        "mask_bytes": 14536,
+        "mask_sha256": "b06149c022794ce0691245fb6f5367837cca89901716f26681ff72f35e6dc2fe",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 555,
+        "atlas_region": {
+          "x": 7475,
+          "y": 128,
+          "width": 341,
+          "height": 341
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv003_layer_tips_3",
+        "map_id": "map01",
+        "level_id": "map01_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 640.0,
+          "south": -1024.0,
+          "north": -384.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv003_layer_tips_3.webp",
+        "rank_shape": [
+          320,
+          320
+        ],
+        "rank_roi": [
+          65,
+          169,
+          79,
+          181
+        ],
+        "mask_path": "masks/map01/scene_map01_lv003_layer_tips_3.bin",
+        "mask_shape": [
+          341,
+          341
+        ],
+        "mask_bytes": 14536,
+        "mask_sha256": "b77cf80fef91b621639864b5287906e4d6377e5c53fba46b612b27fcc274bd53",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 78,
+        "atlas_region": {
+          "x": 128,
+          "y": 894,
+          "width": 341,
+          "height": 341
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv003_layer_tips_4",
+        "map_id": "map01",
+        "level_id": "map01_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 640.0,
+          "south": -1024.0,
+          "north": -384.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv003_layer_tips_4.webp",
+        "rank_shape": [
+          320,
+          320
+        ],
+        "rank_roi": [
+          77,
+          170,
+          113,
+          208
+        ],
+        "mask_path": "masks/map01/scene_map01_lv003_layer_tips_4.bin",
+        "mask_shape": [
+          341,
+          341
+        ],
+        "mask_bytes": 14536,
+        "mask_sha256": "c1756de94d1d6fdf46461028b10d8e0355ae633e47b93da3310dac4fb044cbdb",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 589,
+        "atlas_region": {
+          "x": 725,
+          "y": 894,
+          "width": 341,
+          "height": 341
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv005_layer_tips_1",
+        "map_id": "map01",
+        "level_id": "map01_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": 128.0,
+          "east": 1024.0,
+          "south": -640.0,
+          "north": 128.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv005_layer_tips_1.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          253,
+          143,
+          305,
+          185
+        ],
+        "mask_path": "masks/map01/scene_map01_lv005_layer_tips_1.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "7b487403ede6a0d8e2e3b790c9199f12d84f7d717f00daa54eea6323d4faf626",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 870,
+        "atlas_region": {
+          "x": 1322,
+          "y": 894,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv005_layer_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": 128.0,
+          "east": 1024.0,
+          "south": -640.0,
+          "north": 128.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv005_layer_tips_2.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          185,
+          118,
+          258,
+          207
+        ],
+        "mask_path": "masks/map01/scene_map01_lv005_layer_tips_2.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "59c5890710d195cc34fe5ab5fde103f8e29c22cc4a73633d30e8dd2d6116e68f",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1731,
+        "atlas_region": {
+          "x": 2032,
+          "y": 894,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv006_layer_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv006",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 896.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv006_layer_tips_2.webp",
+        "rank_shape": [
+          512,
+          448
+        ],
+        "rank_roi": [
+          271,
+          283,
+          340,
+          338
+        ],
+        "mask_path": "masks/map01/scene_map01_lv006_layer_tips_2.bin",
+        "mask_shape": [
+          510,
+          454
+        ],
+        "mask_bytes": 28943,
+        "mask_sha256": "c72aad27444b7ae81704945e0398bf4148dbdf85bf8ac9fc2cc2fb62aa77350c",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1164,
+        "atlas_region": {
+          "x": 2742,
+          "y": 894,
+          "width": 454,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv006_layer_tips_3",
+        "map_id": "map01",
+        "level_id": "map01_lv006",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 896.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv006_layer_tips_3.webp",
+        "rank_shape": [
+          512,
+          448
+        ],
+        "rank_roi": [
+          299,
+          281,
+          315,
+          295
+        ],
+        "mask_path": "masks/map01/scene_map01_lv006_layer_tips_3.bin",
+        "mask_shape": [
+          510,
+          454
+        ],
+        "mask_bytes": 28943,
+        "mask_sha256": "3785314f0f9059fd1fd5ab98f5bf055c30abb8cdcea4191e02f72a762bf07d1f",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 81,
+        "atlas_region": {
+          "x": 3452,
+          "y": 894,
+          "width": 454,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv006_layer_tips_4",
+        "map_id": "map01",
+        "level_id": "map01_lv006",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 896.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv006_layer_tips_4.webp",
+        "rank_shape": [
+          512,
+          448
+        ],
+        "rank_roi": [
+          138,
+          313,
+          251,
+          392
+        ],
+        "mask_path": "masks/map01/scene_map01_lv006_layer_tips_4.bin",
+        "mask_shape": [
+          510,
+          454
+        ],
+        "mask_bytes": 28943,
+        "mask_sha256": "07a07116368f6f2a0e1f7b6e93acf039c1fedb03164d1bf2917ac5fd11238004",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2000,
+        "atlas_region": {
+          "x": 4162,
+          "y": 894,
+          "width": 454,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv006_layer_tips_7",
+        "map_id": "map01",
+        "level_id": "map01_lv006",
+        "map_category": "layered",
+        "bounds": {
+          "west": 0.0,
+          "east": 896.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv006_layer_tips_7.webp",
+        "rank_shape": [
+          512,
+          448
+        ],
+        "rank_roi": [
+          148,
+          286,
+          173,
+          314
+        ],
+        "mask_path": "masks/map01/scene_map01_lv006_layer_tips_7.bin",
+        "mask_shape": [
+          510,
+          454
+        ],
+        "mask_bytes": 28943,
+        "mask_sha256": "d08cc3138881823e8ab704f698199eeed5b3181d0765c25da76ce114c51f40fc",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 224,
+        "atlas_region": {
+          "x": 4872,
+          "y": 894,
+          "width": 454,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv007_layer_tips_2",
+        "map_id": "map01",
+        "level_id": "map01_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -640.0,
+          "east": 384.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv007_layer_tips_2.webp",
+        "rank_shape": [
+          512,
+          512
+        ],
+        "rank_roi": [
+          262,
+          84,
+          312,
+          135
+        ],
+        "mask_path": "masks/map01/scene_map01_lv007_layer_tips_2.bin",
+        "mask_shape": [
+          510,
+          510
+        ],
+        "mask_bytes": 32513,
+        "mask_sha256": "153c6feea310c0fda3fdf368b4ce0933bc45a8a7fc93e418fa729a82544ee419",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 522,
+        "atlas_region": {
+          "x": 5582,
+          "y": 894,
+          "width": 510,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv007_layer_tips_3",
+        "map_id": "map01",
+        "level_id": "map01_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -640.0,
+          "east": 384.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv007_layer_tips_3.webp",
+        "rank_shape": [
+          512,
+          512
+        ],
+        "rank_roi": [
+          113,
+          123,
+          155,
+          170
+        ],
+        "mask_path": "masks/map01/scene_map01_lv007_layer_tips_3.bin",
+        "mask_shape": [
+          510,
+          510
+        ],
+        "mask_bytes": 32513,
+        "mask_sha256": "c22fb2f57c2d6fb2676a4421b7f02d4ecec409da9ae463be26564fa583a3a976",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 684,
+        "atlas_region": {
+          "x": 6348,
+          "y": 894,
+          "width": 510,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv007_layer_tips_4",
+        "map_id": "map01",
+        "level_id": "map01_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -640.0,
+          "east": 384.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv007_layer_tips_4.webp",
+        "rank_shape": [
+          512,
+          512
+        ],
+        "rank_roi": [
+          292,
+          121,
+          346,
+          268
+        ],
+        "mask_path": "masks/map01/scene_map01_lv007_layer_tips_4.bin",
+        "mask_shape": [
+          510,
+          510
+        ],
+        "mask_bytes": 32513,
+        "mask_sha256": "5961be3a7ba4331a4dc898b5ad1e77f25d9a1ebcaff374bf10fe2aef3d9fa826",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1127,
+        "atlas_region": {
+          "x": 7114,
+          "y": 894,
+          "width": 510,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map01_lv007_layer_tips_5",
+        "map_id": "map01",
+        "level_id": "map01_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -640.0,
+          "east": 384.0,
+          "south": -128.0,
+          "north": 896.0
+        },
+        "rank_path": "rank-images/map01/scene_map01_lv007_layer_tips_5.webp",
+        "rank_shape": [
+          512,
+          512
+        ],
+        "rank_roi": [
+          172,
+          103,
+          224,
+          150
+        ],
+        "mask_path": "masks/map01/scene_map01_lv007_layer_tips_5.bin",
+        "mask_shape": [
+          510,
+          510
+        ],
+        "mask_bytes": 32513,
+        "mask_sha256": "8b80dddd9e416ec3f30964e1d0926b8a27431a4a54bbe6fb6d41f4d95858b6c9",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 948,
+        "atlas_region": {
+          "x": 128,
+          "y": 1660,
+          "width": 510,
+          "height": 510
+        }
+      }
+    ],
+    "map02": [
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_1.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          421,
+          587,
+          451,
+          613
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_1.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "f65d79f31d689e3ef33b85b5cb5fc851ed243b3ebcc749dc38a785195110f2c3",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 335,
+        "atlas_region": {
+          "x": 128,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_2.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          413,
+          576,
+          453,
+          616
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_2.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "5fa564fc6b7fa97afafced98581a9ba6736d29193e1afa2e87fcd96923f56acd",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 716,
+        "atlas_region": {
+          "x": 950,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_3",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_3.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          413,
+          597,
+          436,
+          621
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_3.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "e85a17c349442f2a3b18ceaab75669b560a24a93ad3af8a2156b4e217f402251",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 236,
+        "atlas_region": {
+          "x": 1772,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_4",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_4.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          412,
+          441,
+          440,
+          479
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_4.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "6e928a49f7449575b8de3b25f43e602d2aec7fd228e39cb1182ad58afe9de8c0",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 589,
+        "atlas_region": {
+          "x": 2594,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_5",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_5.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          410,
+          441,
+          438,
+          470
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_5.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "a2bef1484409602121775e11b3fca5a581a67ea3bfa35ff6e51333d63c0682c0",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 392,
+        "atlas_region": {
+          "x": 3416,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_6",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_6.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          401,
+          440,
+          437,
+          479
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_6.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "0111173246b29092a45af0340dd299c40f7ccaf2227e3367e06b7e39df75f15a",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 511,
+        "atlas_region": {
+          "x": 4238,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv002_layer_tips_7",
+        "map_id": "map02",
+        "level_id": "map02_lv002",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1664.0,
+          "east": -512.0,
+          "south": -1024.0,
+          "north": 384.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv002_layer_tips_7.webp",
+        "rank_shape": [
+          704,
+          576
+        ],
+        "rank_roi": [
+          415,
+          442,
+          480,
+          471
+        ],
+        "mask_path": "masks/map02/scene_map02_lv002_layer_tips_7.bin",
+        "mask_shape": [
+          679,
+          566
+        ],
+        "mask_bytes": 48040,
+        "mask_sha256": "73b92bd729406fd46c4eaa9d81867c6e4ee60cdc873154b2adf2d27922d188cf",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 864,
+        "atlas_region": {
+          "x": 5060,
+          "y": 128,
+          "width": 566,
+          "height": 679
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_1.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          256,
+          148,
+          369,
+          213
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_1.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "79a7d79f75bba7c196b2814384accef40f743731a4130af9ab9c2ac07525751c",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1890,
+        "atlas_region": {
+          "x": 5882,
+          "y": 128,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_2.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          281,
+          306,
+          378,
+          354
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_2.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "e6afafefc7eba235e984c7d5b6b9866781cc8c2f958aeb7b7b74b73eec1a7e60",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 838,
+        "atlas_region": {
+          "x": 6648,
+          "y": 128,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_3",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_3.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          161,
+          280,
+          191,
+          323
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_3.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "a0089babc70c90b2e1e3be8fa6fb8bd3f26596f31951a7a678646f6e4266df2b",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 425,
+        "atlas_region": {
+          "x": 7414,
+          "y": 128,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_4",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_4.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          302,
+          218,
+          382,
+          299
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_4.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "6354ac8431bfb9205cf0b98c72e503a3fe3974b51da533c458198e73edb8aa67",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1376,
+        "atlas_region": {
+          "x": 128,
+          "y": 1063,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_5",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_5.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          311,
+          358,
+          354,
+          408
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_5.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "eb0ff717274039da481051e8c96575cee1133e0374797c46ff9884111b9282a5",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 291,
+        "atlas_region": {
+          "x": 894,
+          "y": 1063,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv003_layer_tips_6",
+        "map_id": "map02",
+        "level_id": "map02_lv003",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 128.0,
+          "south": -1792.0,
+          "north": -640.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv003_layer_tips_6.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          311,
+          364,
+          343,
+          376
+        ],
+        "mask_path": "masks/map02/scene_map02_lv003_layer_tips_6.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "ed5179ee684ad56006d9e163dff4f1949b8fa4775a7b3f802e49835942b764d8",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 167,
+        "atlas_region": {
+          "x": 1660,
+          "y": 1063,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv004_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv004",
+        "map_category": "layered",
+        "bounds": {
+          "west": -2048.0,
+          "east": -1024.0,
+          "south": -1920.0,
+          "north": -768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv004_layer_tips_1.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          252,
+          343,
+          377,
+          470
+        ],
+        "mask_path": "masks/map02/scene_map02_lv004_layer_tips_1.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "bf91e597282ae3d7e0cb26ba70d311afae92e26e5f9901fed63071d4d84a0519",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 3490,
+        "atlas_region": {
+          "x": 2426,
+          "y": 1063,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv004_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv004",
+        "map_category": "layered",
+        "bounds": {
+          "west": -2048.0,
+          "east": -1024.0,
+          "south": -1920.0,
+          "north": -768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv004_layer_tips_2.webp",
+        "rank_shape": [
+          576,
+          512
+        ],
+        "rank_roi": [
+          333,
+          111,
+          410,
+          179
+        ],
+        "mask_path": "masks/map02/scene_map02_lv004_layer_tips_2.bin",
+        "mask_shape": [
+          566,
+          510
+        ],
+        "mask_bytes": 36083,
+        "mask_sha256": "ad9d8d6c9d134a1cccc4e542251823856cf1957242d55bfd3ec82bc20119f690",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2220,
+        "atlas_region": {
+          "x": 3192,
+          "y": 1063,
+          "width": 510,
+          "height": 566
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_1.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          103,
+          57,
+          128,
+          84
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_1.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "3b4e2991c02dfa2d4bc319d70fe6d1b53925876f0831c27a19e542a877526348",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 283,
+        "atlas_region": {
+          "x": 3958,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_10",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_10.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          145,
+          222,
+          168,
+          242
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_10.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "523c7b69cf5cf665923fdb2ef868ab4c970ed2c5f288d40b1443365792796c37",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 273,
+        "atlas_region": {
+          "x": 4668,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_11",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_11.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          149,
+          236,
+          183,
+          258
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_11.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "975984db6f2d8e59c69574c92aaec483ede6763508933727fc6336fefee1af43",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 423,
+        "atlas_region": {
+          "x": 5378,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_2.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          169,
+          85,
+          196,
+          120
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_2.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "ffbc0e491d0be4dc9f1c792fd25c68ee5f2e8941e2b02a553a551aac92a92e14",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 477,
+        "atlas_region": {
+          "x": 6088,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_4",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_4.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          236,
+          95,
+          279,
+          134
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_4.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "65f47873aefb7d5cbdbdb833bf4cad4c95149c5881d747184511d2c2e2cff9d3",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 775,
+        "atlas_region": {
+          "x": 6798,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_5",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_5.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          236,
+          97,
+          279,
+          132
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_5.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "d1b3b013b4d0b89c3159b6234f135690d1d4a29547fe0561a5f76e3b255efe8c",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 623,
+        "atlas_region": {
+          "x": 7508,
+          "y": 1063,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_6",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_6.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          207,
+          193,
+          284,
+          248
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_6.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "f2ff0a1e2e13387a38e66c8bf905aa3df757acb71fe970425b2b48e9e2dcf24f",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1296,
+        "atlas_region": {
+          "x": 128,
+          "y": 1885,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv005_layer_tips_7",
+        "map_id": "map02",
+        "level_id": "map02_lv005",
+        "map_category": "layered",
+        "bounds": {
+          "west": -768.0,
+          "east": 128.0,
+          "south": -768.0,
+          "north": 0.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv005_layer_tips_7.webp",
+        "rank_shape": [
+          384,
+          448
+        ],
+        "rank_roi": [
+          173,
+          196,
+          268,
+          252
+        ],
+        "mask_path": "masks/map02/scene_map02_lv005_layer_tips_7.bin",
+        "mask_shape": [
+          398,
+          454
+        ],
+        "mask_bytes": 22587,
+        "mask_sha256": "66c436cc6cc9d7ca0fc87d82cae80cd6f57f4629a8e743aef3a91d56839e9ca5",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2036,
+        "atlas_region": {
+          "x": 838,
+          "y": 1885,
+          "width": 454,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv007_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1280.0,
+          "east": -128.0,
+          "south": 128.0,
+          "north": 1024.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv007_layer_tips_1.webp",
+        "rank_shape": [
+          448,
+          576
+        ],
+        "rank_roi": [
+          397,
+          130,
+          454,
+          159
+        ],
+        "mask_path": "masks/map02/scene_map02_lv007_layer_tips_1.bin",
+        "mask_shape": [
+          454,
+          566
+        ],
+        "mask_bytes": 32121,
+        "mask_sha256": "94f41d7a42e1d052ee527a6666f27a339d0ca541445bcb9ae49ccb606258553c",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1051,
+        "atlas_region": {
+          "x": 1548,
+          "y": 1885,
+          "width": 566,
+          "height": 454
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv007_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv007",
+        "map_category": "layered",
+        "bounds": {
+          "west": -1280.0,
+          "east": -128.0,
+          "south": 128.0,
+          "north": 1024.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv007_layer_tips_2.webp",
+        "rank_shape": [
+          448,
+          576
+        ],
+        "rank_roi": [
+          430,
+          153,
+          450,
+          169
+        ],
+        "mask_path": "masks/map02/scene_map02_lv007_layer_tips_2.bin",
+        "mask_shape": [
+          454,
+          566
+        ],
+        "mask_bytes": 32121,
+        "mask_sha256": "1af194baa598e548a1b936d7c5bc866891248be9264d31e7eae919e350abd1ec",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 129,
+        "atlas_region": {
+          "x": 2370,
+          "y": 1885,
+          "width": 566,
+          "height": 454
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_layer_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_layer_tips_1.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          376,
+          185,
+          529,
+          421
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_layer_tips_1.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "909678d93a808fb92859a881ac0136ea6e3d41dde00c219b2514240d1ebf26a6",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 6128,
+        "atlas_region": {
+          "x": 3192,
+          "y": 1885,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_layer_tips_2.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          466,
+          368,
+          484,
+          401
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_layer_tips_2.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "2f79fe333e564fe8d6d15eda52b0833f6d6fe4daa1ff00b1845c192e03f7c9e9",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 222,
+        "atlas_region": {
+          "x": 4127,
+          "y": 1885,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_1",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_1.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          162,
+          368,
+          213,
+          423
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_1.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "21de4d5918deaf238a97373fe39c7bc744429e45ac7f585174d39d837cfa1da9",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 647,
+        "atlas_region": {
+          "x": 5062,
+          "y": 1885,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_12",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_12.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          138,
+          195,
+          243,
+          297
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_12.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "06ce9a67e4619f13fc0ae9b68e666b2d9d67b17d20efbeb7eef74aea8b421a91",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 3079,
+        "atlas_region": {
+          "x": 5997,
+          "y": 1885,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_13",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_13.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          392,
+          111,
+          507,
+          250
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_13.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "7f547c0dde8812f7b4bc8e26894ac9eec598d62289e9367b0770437c453486fc",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 4086,
+        "atlas_region": {
+          "x": 6932,
+          "y": 1885,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_2.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          248,
+          166,
+          327,
+          246
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_2.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "2afaa44cc6929dccc6d021f05de9667830d784775beb73ce5be93ef280af2781",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2545,
+        "atlas_region": {
+          "x": 128,
+          "y": 2651,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_5",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_5.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          206,
+          277,
+          309,
+          427
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_5.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "e1bb50e0304915647c024e72e71cd19c41fa244f3e47af8ba75a80b142779417",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2433,
+        "atlas_region": {
+          "x": 1063,
+          "y": 2651,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv008_regiontoast_tips_6",
+        "map_id": "map02",
+        "level_id": "map02_lv008",
+        "map_category": "layered",
+        "bounds": {
+          "west": -896.0,
+          "east": 512.0,
+          "south": 768.0,
+          "north": 1792.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv008_regiontoast_tips_6.webp",
+        "rank_shape": [
+          512,
+          704
+        ],
+        "rank_roi": [
+          249,
+          230,
+          396,
+          443
+        ],
+        "mask_path": "masks/map02/scene_map02_lv008_regiontoast_tips_6.bin",
+        "mask_shape": [
+          510,
+          679
+        ],
+        "mask_bytes": 43287,
+        "mask_sha256": "563d403dd99e49e067f93c5766867425caa76034fc8c91f1fedbe611ab2574e5",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 6473,
+        "atlas_region": {
+          "x": 1998,
+          "y": 2651,
+          "width": 679,
+          "height": 510
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_2",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_2.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          152,
+          67,
+          255,
+          191
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_2.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "abfc9a4367b6782973d719aec134acdff305562fc7e9fa0282b86f3977613f4e",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 4532,
+        "atlas_region": {
+          "x": 2933,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_5",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_5.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          254,
+          56,
+          342,
+          131
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_5.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "e1d6c9f91e129d3ed423c159f2a83c96a855cc72ad98c2fbbf46b1f62df5a119",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 2225,
+        "atlas_region": {
+          "x": 3699,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_6",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_6.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          341,
+          130,
+          423,
+          175
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_6.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "182e450a3ca0f883f2321636858ba4de0b9116aaf48bacfb5b9c19016850d683",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1316,
+        "atlas_region": {
+          "x": 4465,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_7",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_7.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          249,
+          140,
+          264,
+          156
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_7.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "fa721140cec9517afb0e8e68701f3eed824a06ba101244e9d0a5313ac5872a09",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 107,
+        "atlas_region": {
+          "x": 5231,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_8",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_8.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          210,
+          240,
+          295,
+          384
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_8.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "d1b765d9660250ec3ec2f0f1d8cb4a2fb40627415f6c237b464d9894e53e15dc",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 3962,
+        "atlas_region": {
+          "x": 5997,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      },
+      {
+        "tier_id": "scene_map02_lv009_layer_tips_9",
+        "map_id": "map02",
+        "level_id": "map02_lv009",
+        "map_category": "layered",
+        "bounds": {
+          "west": -512.0,
+          "east": 512.0,
+          "south": 0.0,
+          "north": 768.0
+        },
+        "rank_path": "rank-images/map02/scene_map02_lv009_layer_tips_9.webp",
+        "rank_shape": [
+          384,
+          512
+        ],
+        "rank_roi": [
+          213,
+          238,
+          272,
+          384
+        ],
+        "mask_path": "masks/map02/scene_map02_lv009_layer_tips_9.bin",
+        "mask_shape": [
+          398,
+          510
+        ],
+        "mask_bytes": 25373,
+        "mask_sha256": "354c6eca6101810d1a6eec2182701d6beea28faf783dbc644e668372cda99d97",
+        "mask_bit_order": "big",
+        "mask_row_major": true,
+        "coverage_pixels": 1584,
+        "atlas_region": {
+          "x": 6763,
+          "y": 2651,
+          "width": 510,
+          "height": 398
+        }
+      }
+    ]
+  }
+}

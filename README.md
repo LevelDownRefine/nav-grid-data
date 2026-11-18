@@ -55,3 +55,17 @@ uv run --locked python scripts/nav/verify_localization.py --root assets/nav-grid
 ```
 
 旧 `scripts/verify_localization.py` 只理解 PNG 整图，已移除。生产端验证覆盖完整发布目录、导航注册与连接，消费端验证覆盖定位清单、资源摘要、标定和稀疏块语义。不要用仅支持旧格式的检查器验证 v3。
+
+## 预编译定位资源
+
+`prepared-v1/` 是首次冷定位直接使用的静态资源，由 nav-grid-editor 的 tiled-v3 导出生成，随数据包发布且不另建 ZIP：
+
+- `atlases/<map>-1280.webp`：地图级 Q90 WebP 竞争图集。
+- `atlases/<map>-1280-mask.bin`：地图图集的候选覆盖掩码。
+- `masks/<map>/<tier>.bin`：逐层候选覆盖掩码。
+- `rank-images/<map>/<tier>.webp`：发布时冻结的楼层排序图。
+- `floor-index.json`：与 manifest 完全一致的楼层、图集区域、掩码和排序索引。
+- `manifest.json`：绑定本数据包的 `release_id` 和定位清单 SHA-256。
+- `validation.json`、`READY`：完整回读验证和发布完成标记。
+
+掩码按行优先、MSB-first 位打包，末尾补零。客户端必须先核对 `READY` 与 manifest 摘要，再只读加载这些资源；运行时缓存清理不得删除本目录。

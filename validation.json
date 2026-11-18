@@ -1,23 +1,23 @@
 {
-  "source_release_id": "292dfd93-c576-4396-9714-8ee66d44fc0e",
-  "release_id": "e81ed54f-7165-44ae-b1db-723251a57556",
+  "source_release_id": "b7bce00c-401a-4589-bf32-ca480b828923",
+  "release_id": "27485354-6c0f-419c-bb56-578111f6123a",
   "package_bytes_before": 44276690,
-  "package_bytes_after": 42655300,
+  "package_bytes_after": 42667788,
   "objects_before": 2170,
   "objects_after": 2144,
   "object_bytes_before": 14254838,
-  "object_bytes_after": 14232808,
+  "object_bytes_after": 14245236,
   "unique_decode_variants_verified": 2170,
   "counts": {
     "zero": 8239,
-    "roi": 56,
-    "full": 2088,
-    "full_with_zero_border": 627
+    "roi": 24,
+    "full": 2120,
+    "full_with_zero_border": 659
   },
   "decoded_pixels_before": 1811684608,
-  "decoded_pixels_after": 186169139,
+  "decoded_pixels_after": 193885048,
   "index_bytes_before": 3291186,
-  "index_bytes_after": 1697352,
+  "index_bytes_after": 1697398,
   "images": [
     {
       "id": "base01",
@@ -185,14 +185,14 @@
       "path": "layers/map01/map01_lv002/scene_map01_lv002_sub01_location_tips_2/tiles.json",
       "counts": {
         "zero": 30,
-        "roi": 1,
-        "full": 5,
-        "full_with_zero_border": 5
+        "roi": 0,
+        "full": 6,
+        "full_with_zero_border": 6
       },
       "decoded_pixels_before": 9000000,
-      "decoded_pixels_after": 1312088,
+      "decoded_pixels_after": 1572864,
       "index_bytes_before": 14421,
-      "index_bytes_after": 7742,
+      "index_bytes_after": 7743,
       "pixel_equal": true
     },
     {
@@ -201,14 +201,14 @@
       "path": "layers/map01/map01_lv003/scene_map01_lv003_layer_tips_1/tiles.json",
       "counts": {
         "zero": 32,
-        "roi": 1,
-        "full": 3,
-        "full_with_zero_border": 3
+        "roi": 0,
+        "full": 4,
+        "full_with_zero_border": 4
       },
       "decoded_pixels_before": 9000000,
-      "decoded_pixels_after": 787458,
+      "decoded_pixels_after": 1048576,
       "index_bytes_before": 14347,
-      "index_bytes_after": 7373,
+      "index_bytes_after": 7375,
       "pixel_equal": true
     },
     {
@@ -313,14 +313,14 @@
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_2/tiles.json",
       "counts": {
         "zero": 85,
-        "roi": 2,
-        "full": 3,
-        "full_with_zero_border": 3
+        "roi": 0,
+        "full": 5,
+        "full_with_zero_border": 5
       },
       "decoded_pixels_before": 20160000,
-      "decoded_pixels_after": 786929,
+      "decoded_pixels_after": 1310720,
       "index_bytes_before": 29956,
-      "index_bytes_after": 13675,
+      "index_bytes_after": 13678,
       "pixel_equal": true
     },
     {
@@ -329,14 +329,14 @@
       "path": "layers/map01/map01_lv006/scene_map01_lv006_layer_tips_4/tiles.json",
       "counts": {
         "zero": 83,
-        "roi": 2,
-        "full": 5,
-        "full_with_zero_border": 4
+        "roi": 0,
+        "full": 7,
+        "full_with_zero_border": 6
       },
       "decoded_pixels_before": 20160000,
-      "decoded_pixels_after": 1315504,
+      "decoded_pixels_after": 1835008,
       "index_bytes_before": 29961,
-      "index_bytes_after": 13982,
+      "index_bytes_after": 13984,
       "pixel_equal": true
     },
     {
@@ -361,14 +361,14 @@
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_3/tiles.json",
       "counts": {
         "zero": 98,
-        "roi": 1,
-        "full": 1,
-        "full_with_zero_border": 1
+        "roi": 0,
+        "full": 2,
+        "full_with_zero_border": 2
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 270124,
+      "decoded_pixels_after": 524288,
       "index_bytes_before": 32847,
-      "index_bytes_after": 14378,
+      "index_bytes_after": 14379,
       "pixel_equal": true
     },
     {
@@ -393,14 +393,14 @@
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_4/tiles.json",
       "counts": {
         "zero": 95,
-        "roi": 1,
-        "full": 4,
-        "full_with_zero_border": 4
+        "roi": 0,
+        "full": 5,
+        "full_with_zero_border": 5
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 1049467,
+      "decoded_pixels_after": 1310720,
       "index_bytes_before": 32852,
-      "index_bytes_after": 14829,
+      "index_bytes_after": 14831,
       "pixel_equal": true
     },
     {
@@ -409,14 +409,14 @@
       "path": "layers/map01/map01_lv007/scene_map01_lv007_layer_tips_5/tiles.json",
       "counts": {
         "zero": 96,
-        "roi": 1,
-        "full": 3,
-        "full_with_zero_border": 3
+        "roi": 0,
+        "full": 4,
+        "full_with_zero_border": 4
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 786439,
+      "decoded_pixels_after": 1048576,
       "index_bytes_before": 32849,
-      "index_bytes_after": 14674,
+      "index_bytes_after": 14676,
       "pixel_equal": true
     },
     {
@@ -425,14 +425,14 @@
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_4/tiles.json",
       "counts": {
         "zero": 87,
-        "roi": 1,
-        "full": 12,
-        "full_with_zero_border": 9
+        "roi": 0,
+        "full": 13,
+        "full_with_zero_border": 10
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 3145749,
+      "decoded_pixels_after": 3407872,
       "index_bytes_before": 32869,
-      "index_bytes_after": 16012,
+      "index_bytes_after": 16014,
       "pixel_equal": true
     },
     {
@@ -441,14 +441,14 @@
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_5/tiles.json",
       "counts": {
         "zero": 95,
-        "roi": 1,
-        "full": 4,
-        "full_with_zero_border": 4
+        "roi": 0,
+        "full": 5,
+        "full_with_zero_border": 5
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 1048721,
+      "decoded_pixels_after": 1310720,
       "index_bytes_before": 32856,
-      "index_bytes_after": 14832,
+      "index_bytes_after": 14833,
       "pixel_equal": true
     },
     {
@@ -457,14 +457,14 @@
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_2/tiles.json",
       "counts": {
         "zero": 91,
-        "roi": 3,
-        "full": 6,
-        "full_with_zero_border": 5
+        "roi": 0,
+        "full": 9,
+        "full_with_zero_border": 8
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 1655250,
+      "decoded_pixels_after": 2359296,
       "index_bytes_before": 32862,
-      "index_bytes_after": 15425,
+      "index_bytes_after": 15428,
       "pixel_equal": true
     },
     {
@@ -473,14 +473,14 @@
       "path": "layers/map02/indie_dg007/scene_indie_dg007_layer_tips_1/tiles.json",
       "counts": {
         "zero": 93,
-        "roi": 2,
-        "full": 5,
-        "full_with_zero_border": 4
+        "roi": 0,
+        "full": 7,
+        "full_with_zero_border": 6
       },
       "decoded_pixels_before": 23040000,
-      "decoded_pixels_after": 1313655,
+      "decoded_pixels_after": 1835008,
       "index_bytes_before": 32862,
-      "index_bytes_after": 15127,
+      "index_bytes_after": 15130,
       "pixel_equal": true
     },
     {
@@ -489,14 +489,14 @@
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_1/tiles.json",
       "counts": {
         "zero": 60,
-        "roi": 1,
-        "full": 3,
-        "full_with_zero_border": 3
+        "roi": 0,
+        "full": 4,
+        "full_with_zero_border": 4
       },
       "decoded_pixels_before": 12960000,
-      "decoded_pixels_after": 824232,
+      "decoded_pixels_after": 1048576,
       "index_bytes_before": 22430,
-      "index_bytes_after": 10559,
+      "index_bytes_after": 10560,
       "pixel_equal": true
     },
     {
@@ -505,14 +505,14 @@
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_2/tiles.json",
       "counts": {
         "zero": 62,
-        "roi": 1,
-        "full": 1,
-        "full_with_zero_border": 1
+        "roi": 0,
+        "full": 2,
+        "full_with_zero_border": 2
       },
       "decoded_pixels_before": 12960000,
-      "decoded_pixels_after": 263164,
+      "decoded_pixels_after": 524288,
       "index_bytes_before": 22423,
-      "index_bytes_after": 10257,
+      "index_bytes_after": 10259,
       "pixel_equal": true
     },
     {
@@ -521,14 +521,14 @@
       "path": "layers/map02/indie_dg016/scene_indie_dg016_layer_tips_3/tiles.json",
       "counts": {
         "zero": 59,
-        "roi": 1,
-        "full": 4,
-        "full_with_zero_border": 4
+        "roi": 0,
+        "full": 5,
+        "full_with_zero_border": 5
       },
       "decoded_pixels_before": 12960000,
-      "decoded_pixels_after": 1049800,
+      "decoded_pixels_after": 1310720,
       "index_bytes_before": 22430,
-      "index_bytes_after": 10703,
+      "index_bytes_after": 10705,
       "pixel_equal": true
     },
     {
@@ -617,14 +617,14 @@
       "path": "layers/map02/map02_lv002/scene_map02_lv002_layer_tips_5/tiles.json",
       "counts": {
         "zero": 141,
-        "roi": 1,
-        "full": 1,
-        "full_with_zero_border": 1
+        "roi": 0,
+        "full": 2,
+        "full_with_zero_border": 2
       },
       "decoded_pixels_before": 35640000,
-      "decoded_pixels_after": 262272,
+      "decoded_pixels_after": 524288,
       "index_bytes_before": 45324,
-      "index_bytes_after": 19330,
+      "index_bytes_after": 19331,
       "pixel_equal": true
     },
     {
@@ -697,14 +697,14 @@
       "path": "layers/map02/map02_lv003/scene_map02_lv003_layer_tips_4/tiles.json",
       "counts": {
         "zero": 105,
-        "roi": 3,
-        "full": 2,
-        "full_with_zero_border": 2
+        "roi": 0,
+        "full": 5,
+        "full_with_zero_border": 5
       },
       "decoded_pixels_before": 25920000,
-      "decoded_pixels_after": 531451,
+      "decoded_pixels_after": 1310720,
       "index_bytes_before": 35755,
-      "index_bytes_after": 15974,
+      "index_bytes_after": 15979,
       "pixel_equal": true
     },
     {
@@ -953,14 +953,14 @@
       "path": "layers/map02/map02_lv008/scene_map02_lv008_layer_tips_1/tiles.json",
       "counts": {
         "zero": 119,
-        "roi": 1,
-        "full": 10,
-        "full_with_zero_border": 8
+        "roi": 0,
+        "full": 11,
+        "full_with_zero_border": 9
       },
       "decoded_pixels_before": 31680000,
-      "decoded_pixels_after": 2622136,
+      "decoded_pixels_after": 2883584,
       "index_bytes_before": 41571,
-      "index_bytes_after": 19181,
+      "index_bytes_after": 19182,
       "pixel_equal": true
     },
     {
@@ -969,14 +969,14 @@
       "path": "layers/map02/map02_lv008/scene_map02_lv008_layer_tips_2/tiles.json",
       "counts": {
         "zero": 128,
-        "roi": 1,
-        "full": 1,
-        "full_with_zero_border": 1
+        "roi": 0,
+        "full": 2,
+        "full_with_zero_border": 2
       },
       "decoded_pixels_before": 31680000,
-      "decoded_pixels_after": 275476,
+      "decoded_pixels_after": 524288,
       "index_bytes_before": 41546,
-      "index_bytes_after": 17830,
+      "index_bytes_after": 17831,
       "pixel_equal": true
     },
     {
@@ -985,14 +985,14 @@
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_6/tiles.json",
       "counts": {
         "zero": 117,
-        "roi": 1,
-        "full": 12,
-        "full_with_zero_border": 10
+        "roi": 0,
+        "full": 13,
+        "full_with_zero_border": 11
       },
       "decoded_pixels_before": 31680000,
-      "decoded_pixels_after": 3146287,
+      "decoded_pixels_after": 3407872,
       "index_bytes_before": 41622,
-      "index_bytes_after": 19521,
+      "index_bytes_after": 19522,
       "pixel_equal": true
     },
     {
@@ -1001,14 +1001,14 @@
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_1/tiles.json",
       "counts": {
         "zero": 127,
-        "roi": 1,
-        "full": 2,
-        "full_with_zero_border": 2
+        "roi": 0,
+        "full": 3,
+        "full_with_zero_border": 3
       },
       "decoded_pixels_before": 31680000,
-      "decoded_pixels_after": 524442,
+      "decoded_pixels_after": 786432,
       "index_bytes_before": 41597,
-      "index_bytes_after": 18027,
+      "index_bytes_after": 18028,
       "pixel_equal": true
     },
     {
@@ -1033,14 +1033,14 @@
       "path": "layers/map02/map02_lv008/scene_map02_lv008_regiontoast_tips_12/tiles.json",
       "counts": {
         "zero": 122,
-        "roi": 1,
-        "full": 7,
-        "full_with_zero_border": 6
+        "roi": 0,
+        "full": 8,
+        "full_with_zero_border": 7
       },
       "decoded_pixels_before": 31680000,
-      "decoded_pixels_after": 1835017,
+      "decoded_pixels_after": 2097152,
       "index_bytes_before": 41617,
-      "index_bytes_after": 18778,
+      "index_bytes_after": 18780,
       "pixel_equal": true
     },
     {
@@ -1097,14 +1097,14 @@
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_5/tiles.json",
       "counts": {
         "zero": 74,
-        "roi": 1,
-        "full": 5,
-        "full_with_zero_border": 5
+        "roi": 0,
+        "full": 6,
+        "full_with_zero_border": 6
       },
       "decoded_pixels_before": 17280000,
-      "decoded_pixels_after": 1310724,
+      "decoded_pixels_after": 1572864,
       "index_bytes_before": 27053,
-      "index_bytes_after": 12674,
+      "index_bytes_after": 12676,
       "pixel_equal": true
     },
     {
@@ -1113,14 +1113,14 @@
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_8/tiles.json",
       "counts": {
         "zero": 73,
-        "roi": 1,
-        "full": 6,
-        "full_with_zero_border": 5
+        "roi": 0,
+        "full": 7,
+        "full_with_zero_border": 6
       },
       "decoded_pixels_before": 17280000,
-      "decoded_pixels_after": 1572872,
+      "decoded_pixels_after": 1581056,
       "index_bytes_before": 27063,
-      "index_bytes_after": 12831,
+      "index_bytes_after": 12833,
       "pixel_equal": true
     },
     {
@@ -1129,14 +1129,14 @@
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_9/tiles.json",
       "counts": {
         "zero": 76,
-        "roi": 1,
-        "full": 3,
-        "full_with_zero_border": 3
+        "roi": 0,
+        "full": 4,
+        "full_with_zero_border": 4
       },
       "decoded_pixels_before": 17280000,
-      "decoded_pixels_after": 786442,
+      "decoded_pixels_after": 794624,
       "index_bytes_before": 27058,
-      "index_bytes_after": 12387,
+      "index_bytes_after": 12389,
       "pixel_equal": true
     },
     {
@@ -1161,22 +1161,33 @@
       "path": "layers/map02/map02_lv009/scene_map02_lv009_layer_tips_2/tiles.json",
       "counts": {
         "zero": 72,
-        "roi": 1,
-        "full": 7,
-        "full_with_zero_border": 6
+        "roi": 0,
+        "full": 8,
+        "full_with_zero_border": 7
       },
       "decoded_pixels_before": 17280000,
-      "decoded_pixels_after": 1835656,
+      "decoded_pixels_after": 2097152,
       "index_bytes_before": 27061,
-      "index_bytes_after": 12972,
+      "index_bytes_after": 12973,
       "pixel_equal": true
     }
   ],
   "verification": {
     "images": 72,
     "tiles_pixel_equal": 10383,
+    "floor_alpha_equal": true,
     "unique_tile_decodes": 2170,
     "search_records_byte_equal": 501
+  },
+  "prepared_localization": {
+    "layered_floors": 61,
+    "maps": {
+      "map01": 22,
+      "map02": 39
+    },
+    "files": 127,
+    "bytes": 8516514,
+    "webp_quality": 90
   },
   "source_baseline": {
     "kind": "editor-frozen-files",
@@ -19763,16 +19774,5 @@
       "catalog_generated_at": "2026-10-09T11:19:25+00:00",
       "reason": "采集目录将该层列为缺少有效配置或 bounds，未提供可标定的楼层图"
     }
-  ],
-  "alpha_repair": {
-    "source_data_commit": "9fc254de4d89f95a0a0bfa258f8313357d99224c",
-    "changed_native_tiles": 32,
-    "verification": {
-      "images": 72,
-      "tiles_pixel_equal": 10383,
-      "floor_alpha_equal": true,
-      "unique_tile_decodes": 2170,
-      "search_records_byte_equal": 501
-    }
-  }
+  ]
 }

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "kind": "okef-nav-dataset",
   "dataset_id": "endfield-nav",
-  "release_id": "fece9dbf-f704-4867-9d21-b270be12aac6",
-  "parent_release_id": "e81ed54f-7165-44ae-b1db-723251a57556",
+  "release_id": "27485354-6c0f-419c-bb56-578111f6123a",
+  "parent_release_id": "b7bce00c-401a-4589-bf32-ca480b828923",
   "coordinate_spaces": [
     {
       "id": "base01",

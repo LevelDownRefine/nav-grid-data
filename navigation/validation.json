@@ -1,6 +1,6 @@
 {
-  "source_release_id": "b7bce00c-401a-4589-bf32-ca480b828923",
-  "release_id": "27485354-6c0f-419c-bb56-578111f6123a",
+  "source_release_id": "7d0248e0-cbcf-476f-ae28-b474cf53847a",
+  "release_id": "55945d09-a5e8-44e7-b7cd-22820a783142",
   "package_bytes_before": 44276690,
   "package_bytes_after": 42667788,
   "objects_before": 2170,
@@ -1185,8 +1185,8 @@
       "map01": 22,
       "map02": 39
     },
-    "files": 127,
-    "bytes": 8516514,
+    "files": 66,
+    "bytes": 8343218,
     "webp_quality": 90
   },
   "source_baseline": {

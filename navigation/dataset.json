@@ -66,8 +66,8 @@
     },
     {
       "path": "map02_4.grid.npz",
-      "size": 23793,
-      "sha256": "9867c6d75730d7051482071a38ee05b1dab1da50800e820025dad17f0f4415a6",
+      "size": 24150,
+      "sha256": "dec725562b8bfef13996493c32e86b434eb685c76723adb4ed6d3755ea92f9f8",
       "role": "grid"
     },
     {

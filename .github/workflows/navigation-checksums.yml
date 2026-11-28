@@ -1,0 +1,19 @@
+name: Navigation package checksums
+
+on:
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify navigation package checksums
+        run: python scripts/verify_navigation_checksums.py
